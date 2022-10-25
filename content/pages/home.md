@@ -18,7 +18,7 @@ blocks:
         link: /posts
     image:
       src: /uploads/building2.jpg
-      alt: Tina
+      alt: TinaCMS
     color: default
     _template: hero
   - items:
