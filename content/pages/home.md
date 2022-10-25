@@ -17,7 +17,7 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/tina-illustration.webp
+      src: /uploads/building2.jpg
       alt: Tina
     color: default
     _template: hero
