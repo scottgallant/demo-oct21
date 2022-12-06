@@ -30,8 +30,8 @@
     }
   },
   "theme": {
-    "color": "red",
-    "font": "nunito",
+    "color": "blue",
+    "font": "color",
     "icon": "heroicon",
     "darkMode": "light"
   },
