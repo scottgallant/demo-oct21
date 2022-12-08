@@ -33,7 +33,7 @@
     "color": "blue",
     "font": "color",
     "icon": "heroicon",
-    "darkMode": "light"
+    "darkMode": "dark"
   },
   "_collection": "global",
   "_keepTemplateKey": false,
